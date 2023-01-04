@@ -25,23 +25,19 @@ I've kept the pages as simple as possible. Only the required sections are includ
 
 ## Landing
 
-![Hompage](https://github.com/adnan-muhammadi/simple-developer-portfolio-website/blob/main/demo-images/home.png)
+![Hompage](https://github.com/adnan-muhammadi/simple-developer-portfolio-website/tree/main/public/pics/home.png)
 
 ## About
 
-![Hompage](https://github.com/adnan-muhammadi/simple-developer-portfolio-website/blob/main/demo-images/about.png)
+![Hompage](https://github.com/adnan-muhammadi/simple-developer-portfolio-website/tree/main/public/pics/about.png)
 
 ## Projects
 
-![Hompage](https://github.com/adnan-muhammadi/simple-developer-portfolio-website/blob/main/demo-images/projects.png)
+![Hompage](https://github.com/adnan-muhammadi/simple-developer-portfolio-website/tree/main/public/pics/main.png)
 
 ## Experience
 
-![Hompage](https://github.com/adnan-muhammadi/simple-developer-portfolio-website/blob/main/demo-images/experience.png)
-
-## Contact
-
-![Hompage](https://github.com/adnan-muhammadi/simple-developer-portfolio-website/blob/main/demo-images/contact.png)
+![Hompage](https://github.com/adnan-muhammadi/simple-developer-portfolio-website/tree/main/public/pics/experience.png)
 
 # Tech Stack
 

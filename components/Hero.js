@@ -36,7 +36,7 @@ export default function Hero() {
       {/* Image container */}
       <div className="hidden lg:block relative w-full md:w-1/2 -mr-40 mt-20">
         <div className="w-3/4 ">
-          <img src={userData.avatarUrl} alt="avatar" className=" shadow" width={400}/>
+          <img src={userData.avatarUrl} alt="avatar" className="transform hover:scale-125 transition duration-2000 ease-out shadow" width={400}/>
           <div className="flex flex-row justify-between mt-4">
             <div className="flex flex-row space-x-4">
               <svg

@@ -24,7 +24,7 @@ const userData = {
     },
     {
       title: "My Resume",
-      link: "https://drive.google.com/file/d/1VYYm3qSQ-6Ia8-Gwy70ZuQgkBF3Iw7Ts/view?usp=sharing",
+      link: "https://drive.google.com/file/d/1tx0jR-pgmXTVekq3CvLBzLSgjaC0TEz-/view?usp=share_link",
       imgUrl: "/me.png",
     },
     {
@@ -123,7 +123,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1VYYm3qSQ-6Ia8-Gwy70ZuQgkBF3Iw7Ts/view?usp=sharing",
+    "https://drive.google.com/file/d/1tx0jR-pgmXTVekq3CvLBzLSgjaC0TEz-/view?usp=share_link",
   socialLinks: {
     instagram: "https://instagram.com/adnan.muhammadi",
     twitter: "https://twitter.com/adnan-muhamadi",

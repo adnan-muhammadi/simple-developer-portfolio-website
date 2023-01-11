@@ -35,11 +35,11 @@ export default function FavouriteProjects() {
         {/* Grid starts here */}
         <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
           {/* Single card */}
-          <a
+          {/* <a
             href="https://dev-tf.toptechc1.com"
             className="w-full block col-span-3 shadow-2xl"
-          >
-            <div className="relative overflow-hidden">
+          > */}
+            {/* <div className="relative overflow-hidden">
               <img
                 src="/tmk.png"
                 alt="portfolio"
@@ -51,8 +51,8 @@ export default function FavouriteProjects() {
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 01
               </h1>
-            </div>
-          </a>
+            </div> */}
+          {/* </a> */}
           {/* Single card */}
           <a
             href="https://bgprod.com"

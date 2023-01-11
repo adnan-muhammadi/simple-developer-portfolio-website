@@ -88,10 +88,10 @@ const userData = {
     },
     {
       title: "Frontend Developer",
-      company: "ChaiOne",
+      company: "softPlan",
       year: "2019 - 2020",
-      companyLink: "https://www.chaione.com",
-      desc: "Contributed to our flagship Toptech Terminal Management System",
+      companyLink: "https://www.softplan.com",
+      desc: "Contributed to their Migration Project",
     },
     {
       title: "Frontend Developer",

@@ -24,8 +24,8 @@ const userData = {
     },
     {
       title: "My Resume",
-      link: "https://drive.google.com/file/d/1VYYm3qSQ-6Ia8-Gwy70ZuQgkBF3Iw7Ts/view?usp=sharing",
-      imgUrl: "/me.png",
+      link: "https://drive.google.com/file/d/1VYYm3qSQ-6Ia8-Gwy70ZuQgkBF3Iw7Ts/view",
+      imgUrl: "E:\Portfolio\public\me.png",
     },
     {
       title: "CovidRescue",
@@ -123,7 +123,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1VYYm3qSQ-6Ia8-Gwy70ZuQgkBF3Iw7Ts/view?usp=sharing",
+    "https://drive.google.com/file/d/1VYYm3qSQ-6Ia8-Gwy70ZuQgkBF3Iw7Ts/view",
   socialLinks: {
     instagram: "https://instagram.com/adnan.muhammadi",
     twitter: "https://twitter.com/adnan-muhamadi",
